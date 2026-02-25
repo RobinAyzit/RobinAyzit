@@ -6,7 +6,7 @@ I see AI as the best tool for building the future. By using AI as my right hand 
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Done Together](https://github.com/RobinAyzit/DoneTogether)** | Real-time collaborative planning app for teams & friends. | React, TS, Firebase |
+| **[DoneTogether](https://github.com/RobinAyzit/DoneTogether)** | Real-time collaborative planning app for teams & friends. | React, TS, Firebase |
 | **[PrivateLinkSaver](https://github.com/RobinAyzit/PrivateLinkSaver)** | Secure Chrome extension to privately manage bookmarks. | JS, Chrome API |
 | **[Windows Smart Taskbar](https://github.com/RobinAyzit/WindowsSmartTaskbar)** | Elegant Windows utility for organized taskbar categories. | C#, .NET |
 
