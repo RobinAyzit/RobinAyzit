@@ -20,4 +20,4 @@ I see AI as the best tool for building the future. By using AI as my right hand 
 ---
 
 ### 📈 My GitHub Stats
-![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobinAyzit&show_icons=true&theme=transparent&hide_border=true&count_private=true)
+![Robin's GitHub stats](https://github-stats-alpha.vercel.app/api?username=RobinAyzit&cc=222&tc=33b5e5&ic=ffffff&bc=00000000)
