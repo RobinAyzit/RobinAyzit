@@ -2,13 +2,17 @@
 
 I see AI as the best tool for building the future. By using AI as my right hand in development, I can focus on being creative and building impactful solutions.
 
+
 ## 🚀 Featured Projects
+
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
+| **[Neon Path Puzzle](https://github.com/RobinAyzit/Neon-Path-Puzzle)** | A cyber-logic puzzle game with 200 levels. Connect all nodes with a single continuous line. | React, TypeScript, Vite |
 | **[DoneTogether](https://github.com/RobinAyzit/DoneTogether)** | Real-time collaborative planning app for teams & friends. | React, TS, Firebase |
 | **[PrivateLinkSaver](https://github.com/RobinAyzit/PrivateLinkSaver)** | Secure Chrome extension to privately manage bookmarks. | JS, Chrome API |
 | **[Windows Smart Taskbar](https://github.com/RobinAyzit/WindowsSmartTaskbar)** | Elegant Windows utility for organized taskbar categories. | C#, .NET |
+
 
 ## 🛠 Tech Stack & Tools
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -17,7 +21,12 @@ I see AI as the best tool for building the future. By using AI as my right hand 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Chrome Dash](https://img.shields.io/badge/Chrome_Extension-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
 
+
 ---
+
 
 ### 📈 My GitHub Stats
 ![Robin's GitHub stats](https://github-stats-alpha.vercel.app/api?username=RobinAyzit&cc=222&tc=33b5e5&ic=ffffff&bc=00000000)
+
+### 🎮 Play My Game
+[**Neon Path Puzzle**](https://neon-path-puzzle.vercel.app) - A cyber-logic puzzle game!
